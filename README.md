@@ -67,6 +67,24 @@ why does it matter? CPD as a proccess is broader than you may think, helping man
 
 Are their any negatives to this methoglody? Flaws in the conceptual ideology of methodologies are conclusive, meaning that it is not plausible for the methodologies concieved by humans to be perfect or flawless. Though this does not mean that it is overly bad, rather the proccess of continuing self development includes numerous benefits for instance;  
 
+- provides an overview of your professional development to date
+
+- reminds you of your achievements and how far you've progressed
+
+- directs your career and helps you keep your eye on your goals
+
+- uncovers gaps in your skills and capabilities
+
+- Opens up further development needs
+
+- provides examples and scenarios for a CV or interview
+
+- demonstrates your professional standing to clients and employers
+
+- helps you with your career development or a possible career change. 
+
+The negatives are rather tame in this retrospec only leading to repetition, intense boredom or a tedious process and structure to follow.
+
 The continuation of professional development is crucial in the modern day market and may even be applied in-directly as in my own experience with 
 
 Though what will it do for you and 

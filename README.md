@@ -85,9 +85,7 @@ Are their any negatives to this methoglody? Flaws in the conceptual ideology of 
 
 The negatives are rather tame in this retrospec only leading to repetition, intense boredom or a tedious process and structure to follow.
 
-The continuation of professional development is crucial in the modern day market and may even be applied in-directly as in my own experience with 
-
-Though what will it do for you and 
+The continuation of professional development is crucial in the modern day market, if I were to relate it to my own experience I have in-directly and still am using contined proffessional development, with the  . 
 
 #### 3.3 Article Back Log
 

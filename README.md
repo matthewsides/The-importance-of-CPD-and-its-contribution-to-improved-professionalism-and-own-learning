@@ -85,7 +85,9 @@ Are their any negatives to this methoglody? Flaws in the conceptual ideology of 
 
 The negatives are rather tame in this retrospec only leading to repetition, intense boredom or a tedious process and structure to follow.
 
-The continuation of professional development is crucial in the modern day market, if I were to relate it to my own experience I have in-directly and still am using contined proffessional development, with the  . 
+The continuation of professional development is crucial in the modern day market, if I were to relate it to my own experience I have in-directly and still am using continued proffessional development, with the formulation of a new course (Video Game Design and Production/ Computer Science masked with the veil of apps and video games) hosted at the West Herts College, different to other HND's, it is focused specifically around the development of developing the students into proffessionals,treating them as employees rather than students, encouraging them to work on their portfolio giving neigh to free rien in comparision to other courses, focusing less on due dates,assigments or curriclum  and more on projects and tasks. 
+
+My most recent developpment sought me working with the Zoological Society of London (ZSL for short)  . 
 
 #### 3.3 Article Back Log
 

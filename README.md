@@ -36,9 +36,12 @@ Things that have been discussed in a meeting are presented in this document with
 Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
 
 ### 2. References 
-Jobs.ac.uk: http://www.jobs.ac.uk/careers-advice/managing-your-career/1318/what-is-continuing-professional-development-cpd
 
+jobs.ac.uk: http://www.jobs.ac.uk/careers-advice/managing-your-career/1318/what-is-continuing-professional-development-cpd
 
+information-age.com: http://www.information-age.com/why-organisations-need-invest-continuing-professional-development-their-it-staff-123459729/
+
+continuingprofessionaldevelopment.org: http://continuingprofessionaldevelopment.org/why-is-cpd-important/
 
 
 ### 3. Article

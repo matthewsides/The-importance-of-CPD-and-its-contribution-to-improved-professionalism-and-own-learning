@@ -20,8 +20,9 @@
 3.3 Miscellaneous Information (Research)
 
 
+### 1. Introduction
 
-
+This documentation contains all the conceptual drafts and information pertained around a written article based on or around 'the importance of CPD and its contribution to improved professionalism and own learning'. All the information regarded or noted in the draft below is provisional, meaning that it is not the finished product or article and may be changed or altered depending on certain circumstances (for instance more research is covered on the subject thus causing a change in the wording of the article etc.).
 
 
 ### Article Back Log

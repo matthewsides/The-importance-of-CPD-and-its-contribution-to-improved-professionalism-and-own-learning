@@ -13,11 +13,13 @@
 
 3. Article
 
-3.1 Draft
+3.1 Brief Structure
 
-3.2 Article Backlog
+3.2 Draft
 
-3.3 Miscellaneous Information (Research)
+3.3 Article Backlog
+
+3.4 Miscellaneous Information 
 
 
 ### 1. Introduction
@@ -41,9 +43,15 @@ Jobs.ac.uk: http://www.jobs.ac.uk/careers-advice/managing-your-career/1318/what-
 
 ### 3. Article
 
-#### 3.1 Draft
+#### 3.1 Brief Structure
 
-#### 3.2 Article Back Log
+
+#### 3.2 Draft
+
+
+
+
+#### 3.3 Article Back Log
 
 | Date        |November | 16 | 17 | 18 | 19 | 
 |-------------|---------|----|----|----|----|
@@ -52,7 +60,7 @@ Jobs.ac.uk: http://www.jobs.ac.uk/careers-advice/managing-your-career/1318/what-
 |Final Article|         |    |    |    | // |
 |                                           |   
 
-#### 3.3 Miscellaneous Information (Research)
+#### 3.4 Miscellaneous Information 
 
-
+N/A
 

@@ -26,7 +26,7 @@
 
 ### Article Back Log
 
-| Date        | November| 16 | 17 | 18 | 19 | 
+| Date        |November | 16 | 17 | 18 | 19 | 
 |-------------|---------|----|----|----|----|
 |Research     |         | // | // |    |    |    
 |Draft        |         |    | // | // |    |   

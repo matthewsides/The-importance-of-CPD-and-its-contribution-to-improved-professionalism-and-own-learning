@@ -45,6 +45,18 @@ Jobs.ac.uk: http://www.jobs.ac.uk/careers-advice/managing-your-career/1318/what-
 
 #### 3.1 Brief Structure
 
+Introduction::
+What is it -overview!
+Why companies use it ! - Contribution 
+- Develops skills of staff. Which in turn  retains staff.
+
+Middle::
+Benifits - Negatives
+- Tedious proccess - Develops skills/Documents Development
+
+Conclusion::
+Own Experience- Relate to self
+- How it helped or is good for my own self development.
 
 #### 3.2 Draft
 

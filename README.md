@@ -103,7 +103,8 @@ My most recent development sought me working with the Zoological Society of Lond
 
 #### 3.4 Miscellaneous Information 
 Article Posted Via the Linkedin Site - The link below will take those perusing this document to the finished Article -
-Article Link:https://www.linkedin.com/pulse/importance-cpd-its-contribution-improved-own-learning-matthew-sides/?published=t
+
+Article Link: https://www.linkedin.com/pulse/importance-cpd-its-contribution-improved-own-learning-matthew-sides/?published=t
 
 
 *Document End

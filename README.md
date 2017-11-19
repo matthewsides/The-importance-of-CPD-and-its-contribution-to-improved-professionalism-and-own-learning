@@ -65,6 +65,9 @@ The importance of CPD is often seen as integral, but what exactly is CPD and why
 
 why does it matter? CPD as a proccess is broader than you may think, helping many to manage their self-development on an ongoing basis. Its function or purpose to help you record, review and reflect on what you learn, more than simply filling in tick boxes.
 
+Are their any negatives to this methoglody? flaws in the conceptual ideology of  seen with the majority of methodologies or proccesess the conceptual ideology behind it always has it negatives and benefits 
+
+The continuation of professional development is crucial in the modern day market and may even be applied in-directly as in my own experience with 
 
 Though what will it do for you and 
 

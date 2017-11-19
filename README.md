@@ -51,7 +51,7 @@ Why companies use it ! - Contribution
 - Develops skills of staff. Which in turn  retains staff.
 
 Middle::
-Benifits - Negatives
+Benefits - Negatives
 - Tedious proccess - Develops skills/Documents Development
 
 Conclusion::

@@ -13,11 +13,12 @@
 
 3. Article
 
-3.1 Miscellaneous Information (Research)
+3.1 Draft
 
-3.2 Draft
+3.2 Article Backlog
 
-3.3 Article Backlog
+3.3 Miscellaneous Information (Research)
+
 
 
 

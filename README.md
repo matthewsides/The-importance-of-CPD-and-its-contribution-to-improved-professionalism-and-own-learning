@@ -61,7 +61,12 @@ Own Experience- Relate to self
 #### 3.2 Draft
 The importance of CPD and its contribution to improved professionalism and own learning. *Article Heading
 
-The importance of CPD is often seen as integral, but what exactly is CPD and why does it matter? CPD an acrynom of Continuing Proffessional development,refers to the process of tracking and documenting the skills, knowledge and experience gained both formally and informally as you work, beyond any initial training. It's essentailly a record of what you may experience, learn and then apply, further used as a reference to any  physical folder or portfolio documenting your development as a professional. .
+The importance of CPD is often seen as integral, but what exactly is CPD and why does it matter? CPD an acrynom of Continuing Proffessional development,refers to the process of tracking and documenting the skills, knowledge and experience gained both formally and informally as you work, beyond any initial training. It's essentially a record of what you may experience, learn and then apply, further used as a reference to any physical folder or portfolio documenting your development as a professional.  
+
+why does it matter? CPD as a proccess is broader than you may think, helping many to manage their self-development on an ongoing basis. Its function or purpose to help you record, review and reflect on what you learn, more than simply filling in tick boxes.
+
+
+Though what will it do for you and 
 
 #### 3.3 Article Back Log
 

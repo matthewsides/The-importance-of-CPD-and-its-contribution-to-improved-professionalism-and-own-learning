@@ -7,7 +7,7 @@
 |Research     |         | // | // |    |    |    
 |Draft        |         |    | // | // |    |   
 |Final Article|         |    |    |    | // |
-|Final Article                              |       
+|                                           |       
 
 
 http://www.jobs.ac.uk/careers-advice/managing-your-career/1318/what-is-continuing-professional-development-cpd
